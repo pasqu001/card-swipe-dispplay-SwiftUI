@@ -1,4 +1,4 @@
-# card-swipe-dispplay-SwiftUI <br />
+# card-swipe-display-SwiftUI <br />
 50 card swipe display implementation <br />
 Mini SwiftUI View Exercise to inhance my iOS development skill - <br />
 Few examples of what the display looks like - <br />
